@@ -196,6 +196,9 @@ h2{
     height: 100%;
     width: 100%;
 }
+.product>h4{
+font-weight: 500;
+}
 .collections{
     height: 100vh;
 }
